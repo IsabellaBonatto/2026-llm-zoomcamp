@@ -21,4 +21,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "01-agentic-rag/homework",
+    "lesson5_monitoring/homework",
 ]
